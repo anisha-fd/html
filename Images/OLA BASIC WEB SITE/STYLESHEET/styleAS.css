@@ -1,0 +1,22 @@
+.diff h5 {
+    font-size: 48px;
+    text-shadow: 1px 2px rgb(144, 229, 136);
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20%;
+    margin-top: 210px;
+    margin-bottom: 30px;
+}
+
+.diff p {
+    font-size: 21px;
+    margin-left: 20%;
+
+}
+
+.diff table {
+    margin-left: 20%;
+    margin-top: 50px;
+    margin-bottom: 210px;
+}
+
+
